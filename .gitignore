@@ -1,0 +1,11 @@
+.env
+company_data/
+email_samples.txt
+__pycache__/
+*.pyc
+downloaded_files/
+venv_seleniumbase/
+final_email.txt
+generated_data/*
+.venv/*
+email_log.csv

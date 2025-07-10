@@ -1,0 +1,29 @@
+# Web scraping and parsing
+seleniumbase
+beautifulsoup4
+html5lib==1.1
+newspaper3k==0.2.8
+GoogleNews==1.6.8
+wikipedia==1.4.0
+yfinance
+
+# Transformers and sentence embeddings
+sentence-transformers==2.6.1
+numpy==1.26.4
+textblob
+boilerpy3
+
+# FastAPI backend
+fastapi==0.111.0
+uvicorn==0.30.1
+pydantic==2.7.1
+
+# Groq API client
+groq
+openai
+
+# Miscellaneous
+requests
+python-dotenv==1.0.1
+
+lxml_html_clean

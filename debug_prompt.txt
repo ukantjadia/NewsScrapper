@@ -1,0 +1,65 @@
+You are given three blocks of text below. Use them to perform the task strictly as instructed.
+
+===
+[COMPANY INFO]
+Free Radicals is an advertising firm that provides content development, digital marketing, campaigns, brand strategy, and research services.
+
+Utilizes both emerging and traditional platforms to enhance visibility across TV, streaming, digital, social, and out-of-home media.
+
+Industries: Advertising, Brand Marketing, Content Creators, Creative Agency, Printing, SEM, Social Media Advertising
+
+Website Summary: * The company is a creative advertising and media agency dedicated to helping people and businesses succeed.
+* They focus on clients who deliver products and services that improve lives and lifestyles.
+* Services offered:
+  * Creative and production (video and audio projects)
+  * Brand and strategy development
+  * Content and copywriting
+  * Social media and digital marketing
+  * Media planning and buying
+  * Advertising and marketing (traditional and digital)
+* Key industries or use cases:
+  * Home furnishings
+  * Energy (utilities)
+  * Foundation services
+  * Tourism
+  * Automotive (Certified Transmission)
+  * Industrial equipment (Rocket Equipment)
+* Major platforms or technologies mentioned:
+  * Traditional TV
+  * Connected TV
+  * Digital media
+  * Social media
+  * Online video
+  * Websites
+
+Recent News: 
+===
+[TEMPLATE EMAIL]
+I hope this email finds you well.  I know we haven’t been introduced yet, I’m a fellow entrepreneur and the founder of Sunset Legacy Partners. I’ve spent my career building and scaling businesses in media, healthcare, and tech, and now with Sunset, I'm focused on software and data solutions for associations and non-profits.
+I recently came across AH’s blog on building a strong social media presence for associations, and it resonated deeply with my experience working with organizations to improve member engagement. Your points about balancing organic content with paid strategies and integrating tools like Google Analytics stood out, these are challenges I’ve seen associations navigate as they grow.
+I’d love to hear how you’ve seen these strategies evolve within AH, particularly as associations have had to adapt to the rapid shifts in digital engagement and communication. For example, how has AH leveraged tools like the Digital Marketing Toolkit to address challenges such as limited budgets, changing audience expectations, and the demand for measurable ROI from social media efforts? I’m also interested in how AH balances long-term strategies, like consistent branding and audience engagement, with the agility needed to respond to fast-moving trends in the digital space. In such a competitive environment, I’d appreciate your perspective on how you’ve helped associations stay relevant and strengthen member relationships to drive growth through innovative digital approaches
+Would you be open to a quick conversation?
+===
+[TASK]
+Adapt the TEMPLATE EMAIL to target the company described in COMPANY INFO.
+
+RULES YOU MUST FOLLOW:
+- DO NOT write a new email.
+- You must KEEP THE EXACT SAME STRUCTURE, LENGTH, PARAGRAPH COUNT, and FLOW as the template.
+- Only change company-specific parts based on the COMPANY INFO.
+- Keep the same tone and sentence rhythm.
+- If the TEMPLATE EMAIL has 4 paragraphs, your email must also have 4 paragraphs.
+- NEVER add extra flattery, praise, or commentary.
+- DO NOT add or remove paragraphs or sections.
+- Do NOT use placeholder text.
+- Use one of the following endings:
+   • "Would you be up for a conversation next week?"
+   • "I'd love to hear more about [something]. Would you be free for a quick chat?"
+   • "Would you be open to a conversation sometime soon?"
+
+OUTPUT FORMAT (strict):
+Subject: [your subject line]
+
+[email body]
+
+NO additional explanation or commentary.
